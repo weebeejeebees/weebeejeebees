@@ -2,7 +2,7 @@
 
 **`(Developer/Tutor/Student)`**
 
-I am a backend developer, but I can also do frontend if the situation calls for it. I take time building applications and understanding how each program works from the start to after it executes all functions. All of my projects here were built from the ground up from my time in school. In my free time, I do part time tutoring in CourseHero. Most of the questions I get are programming related and it helps me expand my knowledge for languages and logic. I try to apply everything I learned in my projects and its additions to my projects created a positive impact.
+I am a backend developer, but I can also do frontend if the situation calls for it. I take time building applications and understanding how each program works from the start to after it executes all functions. All of my projects here were built from the ground up from my time in school. In my free time, I do part time tutoring in CourseHero. Most of the questions I get are programming related and it helps me expand my knowledge for languages and logic. I try to apply everything I learned to my projects and its additions created a positive impact.
 
 
 
