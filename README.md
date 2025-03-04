@@ -47,6 +47,9 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 </div>
 
 Click on the LinkedIn button to see more certificates!
+##
+
+
 
 ### 🚧 Latest Project
 
