@@ -17,6 +17,7 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 
 ---
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -37,6 +38,16 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 <br />
 
 #
+
+### 🏅 Skills and Certifications (Most Recent)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/ea2c2715-c1a3-440d-99be-6fd69c3bb6ef" style="width: 49%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/14340a2f-a213-48dc-a832-6400b77adfad" style="width: 49%; height: auto;">
+</div>
+
+Click on the LinkedIn button to see more certificates!
+
 ### 🚧 Latest Project
 
 ## Lahvada Laundromat POS System: Modernizing and Streamlining Operations for Better Efficiency
