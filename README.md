@@ -37,3 +37,11 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 <br />
 
 #
+### 🚧 Latest Project
+
+## Lahvada Laundromat POS System: Modernizing and Streamlining Operations for Better Efficiency
+
+![1](https://github.com/user-attachments/assets/f80ebff7-7c68-4915-9397-165b084901ee)
+![2](https://github.com/user-attachments/assets/ae5f8c2f-9999-4ec5-83d5-0c24c7c81608)
+![3](https://github.com/user-attachments/assets/e9e81e21-e6d6-4ff5-93e6-073fe8075c1c)
+
