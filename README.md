@@ -51,7 +51,6 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 
 
 ### 🚧 Latest Project
-
 ## Lahvada Laundromat POS System: Modernizing and Streamlining Operations for Better Efficiency
 
 ![1](https://github.com/user-attachments/assets/f80ebff7-7c68-4915-9397-165b084901ee)
