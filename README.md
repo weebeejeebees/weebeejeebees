@@ -46,9 +46,8 @@ I am a backend developer, but I can also do frontend if the situation calls for 
     <img src="https://github.com/user-attachments/assets/14340a2f-a213-48dc-a832-6400b77adfad" style="width: 49%; height: auto;">
 </div>
 
-Click on the LinkedIn button to see more certificates!
-##
-
+#### Click on the LinkedIn button to see more certificates!
+#
 
 
 ### 🚧 Latest Project
