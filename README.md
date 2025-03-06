@@ -68,5 +68,5 @@ I am a backend developer, but I can also do frontend if the situation calls for 
 ![14](https://github.com/user-attachments/assets/0c35e73a-203e-4c7b-9897-492ecff6b1f8)
 ![15](https://github.com/user-attachments/assets/057b826a-36a5-41c0-8687-bb89144e1bb5)
 ![16](https://github.com/user-attachments/assets/4e9597c6-16e2-4f4a-92d0-f4e5e43c1d4d)
-![17](https://github.com/user-attachments/assets/a179d709-2ed6-43ad-ad04-3b568bfb6513)
-![18](https://github.com/user-attachments/assets/3a1c5c50-93a5-4759-b985-cf60cd243546)
+![17](https://github.com/user-attachments/assets/caa76395-bb5a-4690-bc86-b7808169a0c4)
+![18](https://github.com/user-attachments/assets/1853d55a-98fc-43f9-bfd8-1fdda5a62412)
